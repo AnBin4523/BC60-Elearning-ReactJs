@@ -1,6 +1,6 @@
 Link report task: https://docs.google.com/spreadsheets/d/1Uz9jDNIDISxUz-FyaxdNyyf6NAxA3vU8ddHeEguJ9uk/edit#gid=0
 
-Link youtube: 
+Link youtube: https://www.youtube.com/watch?v=wRwlUi-xWfI
 
 # Getting Started with Create React App
 
