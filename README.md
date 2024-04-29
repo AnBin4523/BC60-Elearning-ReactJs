@@ -1,3 +1,7 @@
+Link report task: https://docs.google.com/spreadsheets/d/1Uz9jDNIDISxUz-FyaxdNyyf6NAxA3vU8ddHeEguJ9uk/edit#gid=0
+
+Link youtube: 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
